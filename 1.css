@@ -1,0 +1,20 @@
+.o {font-family:"monospace"}
+span {color:red}
+.r {color: #e95a72 ; font-size:150%}
+.p { font-family: Calibri}
+h1 {color: #e80c4d ; border: solid #8b4a64 ; width :140px ; height : auto}
+.u {background-color: #cafffe;width:340px}
+.p {color:purple ; font-family: "MS PGothic"}
+#A {color:gold}
+.k {border: solid red ; width: 350px}
+.ul1{color: #e80c4d ; margin:20px ; padding: 0px ; background-color: #fff596
+}
+.li {display:inline-block ; margin:10px ; color: #0799ff }
+.main-menu {display: block}
+.div2 {color: #e80c4d ; margin-top:20px ; margin-left: 20px ; background-color: #fffbb8 ; width: 190px ; padding: 5px}
+.bg {background-size: 1550px 750px}
+.form {padding: 50px ;margin-top:230px ; margin-left:45px ; width: 160px ; height: 120px ; background-color: wheat}
+
+.form2 {color:white ; background-color: darkslategray; margin-top: 200px ; margin-left:150px ; padding: 10px ; width: 250px}
+.bg2 {background-size: 100%}
+.action {}
